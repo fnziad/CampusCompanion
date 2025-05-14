@@ -1,5 +1,7 @@
 # CampusCompanion
 
+[![Vercel](https://vercel.com/button)](https://campuscompanion-flame.vercel.app/)
+
 CampusCompanion is a modern web application designed to empower BRAC University students by connecting academics, career building, and peer collaboration into a single clean platform. This project is built as a Software Engineering course project, focusing on practical features, clean code, and a soothing user experience.
 
 ## Tech Stack
@@ -57,6 +59,10 @@ public/            # Static assets (logos, icons, etc.)
    ```
 3. **Open in browser:**
    Visit [http://localhost:5173](http://localhost:5173) (or as shown in your terminal)
+
+## Live Demo
+
+You can view the deployed site here: [https://campuscompanion-flame.vercel.app/](https://campuscompanion-flame.vercel.app/)
 
 ## Contribution
 
