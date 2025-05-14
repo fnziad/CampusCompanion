@@ -1,9 +1,71 @@
-\***\*CampusCompanion\*\*** is a full-stack web application built to empower BRAC University students by connecting academics, career building, and peer collaboration into a single clean platform. Designed as a Software Engineering course project, CampusCompanion emphasizes a strict MVC architecture, practical functionality, and a modern, soothing user experience.
+# CampusCompanion
 
-The platform allows students to explore a curated Course Hub filled with resources like lecture notes, slides, quizzes, and practice materials. It includes a Resume/CV Maker that lets students easily build professional resumes using LaTeX templates, live preview their changes, and share their resume links for job and research opportunities. With the Flashcard/Notes Maker, users can transform their lecture slides or notes into study-ready flashcards for effective studying.
+CampusCompanion is a modern web application designed to empower BRAC University students by connecting academics, career building, and peer collaboration into a single clean platform. This project is built as a Software Engineering course project, focusing on practical features, clean code, and a soothing user experience.
 
-CampusCompanion also features a Job and Research Opportunities section where students can browse, apply, and save postings for internships, jobs, and academic research. In the Student Collaboration Hub, students can form thesis groups, create study circles, join research teams, or post small freelance tasks to collaborate easily across campus.
+## Tech Stack
 
-Currently work in progress using a MERN stack with a simulated JSON database for simplicity, CampusCompanion maintains a professional light mode and a futuristic neon dark mode aesthetic. The platform is role-based, differentiating between general viewers, contributors, moderators, and a single Super Admin, offering full control without the complexity of production-grade authentication.
+- **Frontend:** React (with Vite), TypeScript, Tailwind CSS, Lucide Icons, React Router
+- **State/Context:** React Context API
+- **Styling:** Tailwind CSS, custom themes (light & dark mode)
+- **Build Tool:** Vite
 
-CampusCompanion is a project about building the student ecosystem — organized, effortless, and a little futuristic. Clean code, clean design, and a platform that feels like a lounge where knowledge flows smoothly.
+## Features
+
+- Course Hub: Browse and search for course resources (notes, slides, quizzes, practice materials)
+- Resume Builder: Create and preview professional resumes (LaTeX-style templates coming soon)
+- Job & Research Opportunities: Browse, save, and apply for internships, jobs, and research positions
+- Student Collaboration Hub: Form thesis groups, study circles, research teams, or post small freelance tasks
+- Role-based Access: General users, contributors, moderators, and a super admin (simulated roles)
+- Modern UI: Responsive, accessible, and visually appealing with light and dark modes
+
+## Project Structure & MVC Pattern
+
+CampusCompanion follows a clear separation of concerns inspired by the MVC (Model-View-Controller) architecture:
+
+- **Models** (`src/models/`): TypeScript types and interfaces for core entities (e.g., Course, Opportunity, Resource, Wishlist).
+- **Views** (`src/components/`, `src/pages/`): UI components and route-based pages, responsible for rendering the user interface and handling user interactions.
+- **Controllers** (`src/controllers/`): Business logic and data manipulation, acting as the bridge between models and views.
+- **Contexts & Hooks** (`src/contexts/`, `src/hooks/`): Manage global state and reusable logic, supporting the MVC separation.
+
+This structure ensures maintainability, scalability, and a clean codebase.
+
+## Project Structure
+
+```
+src/
+  components/
+  contexts/
+  controllers/
+  data/
+  hooks/
+  lib/
+  models/
+  pages/
+  utils/
+public/
+```
+
+## Getting Started
+
+1. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+2. **Start the development server:**
+   ```sh
+   npm run dev
+   ```
+3. **Open in browser:**
+   Visit [http://localhost:5173](http://localhost:5173) (or as shown in your terminal)
+
+## Contribution
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is for educational purposes only.
+
+---
+
+> CampusCompanion is about building the student ecosystem — organized, effortless, and a little futuristic. Clean code, clean design, and a platform that feels like a lounge where knowledge flows smoothly.
