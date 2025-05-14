@@ -1,0 +1,164 @@
+
+[
+  {
+    "id": "col001",
+    "title": "Seeking Thesis Group Members - NLP Research",
+    "type": "Thesis Group",
+    "description": "Looking for 2-3 members to form a thesis group focused on implementing and testing natural language processing algorithms. We'll be working with Python and various ML libraries.",
+    "requiredSkills": ["Machine Learning", "Python", "NLP"],
+    "academicLevel": "Undergraduate",
+    "createdBy": "user001",
+    "meetingFormat": "Hybrid",
+    "deadline": "2025-05-20",
+    "createdAt": "2025-04-15",
+    "thesisTopic": "Natural Language Processing for Medical Text Analysis",
+    "currentMembers": [
+      {
+        "userId": "user001",
+        "name": "Samira Ahmed",
+        "profilePicture": "https://randomuser.me/api/portraits/women/44.jpg",
+        "joinedAt": "2025-04-15",
+        "skills": ["Python", "TensorFlow", "NLP"],
+        "role": "Team Lead"
+      }
+    ],
+    "teamLead": "user001",
+    "maxMembers": 4,
+    "department": "Computer Science"
+  },
+  {
+    "id": "col002",
+    "title": "Data Structures & Algorithms Study Group",
+    "type": "Study Help",
+    "description": "Looking for weekly study partners to practice DSA problems and prepare for technical interviews. We'll focus on LeetCode problems and algorithm techniques.",
+    "requiredSkills": ["Basic Programming", "Data Structures"],
+    "academicLevel": "Undergraduate",
+    "createdBy": "user002",
+    "meetingFormat": "Online",
+    "deadline": "2025-06-30",
+    "createdAt": "2025-04-10",
+    "courseName": "CSE220: Data Structures",
+    "studyGoals": ["Interview Preparation", "Algorithm Practice", "Problem Solving"]
+  },
+  {
+    "id": "col003",
+    "title": "Mobile App Development Project",
+    "type": "Research Project",
+    "description": "Seeking collaborators for developing a cross-platform mobile app that helps students track and manage their course assignments and deadlines.",
+    "requiredSkills": ["React Native", "UI Design", "Firebase"],
+    "academicLevel": "Undergraduate",
+    "createdBy": "user002",
+    "meetingFormat": "Hybrid",
+    "deadline": "2025-05-25",
+    "createdAt": "2025-04-12",
+    "projectScope": "Full mobile application development from concept to deployment",
+    "timeline": {
+      "start": "2025-05-01",
+      "end": "2025-07-30"
+    },
+    "proposals": [
+      {
+        "userId": "user003",
+        "name": "Fahim Rahman",
+        "profilePicture": "https://randomuser.me/api/portraits/men/32.jpg",
+        "proposalText": "I have experience with React Native and Firebase. I can help with the backend integration and authentication system.",
+        "submittedAt": "2025-04-14",
+        "status": "accepted"
+      },
+      {
+        "userId": "user004",
+        "name": "Tasnim Khan",
+        "profilePicture": "https://randomuser.me/api/portraits/women/22.jpg",
+        "proposalText": "I'm skilled in UI/UX design and have worked on similar applications. I'd like to contribute to the interface design.",
+        "submittedAt": "2025-04-15",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "id": "col004",
+    "title": "Need Proofreading Help for Research Paper",
+    "type": "Small Task",
+    "description": "Looking for someone with strong English writing skills to proofread my 15-page research paper on renewable energy technologies. Willing to pay a small fee.",
+    "requiredSkills": ["English Proficiency", "Academic Writing"],
+    "academicLevel": "Graduate",
+    "createdBy": "user003",
+    "isPaid": true,
+    "paymentAmount": "1000 BDT",
+    "estimatedHours": 3,
+    "deadline": "2025-04-30",
+    "createdAt": "2025-04-20"
+  },
+  {
+    "id": "col005",
+    "title": "Blockchain Technology Thesis Group",
+    "type": "Thesis Group",
+    "description": "Looking for members interested in exploring blockchain applications in supply chain management for thesis work.",
+    "requiredSkills": ["Blockchain", "Smart Contracts", "Supply Chain Knowledge"],
+    "academicLevel": "Graduate",
+    "createdBy": "user005",
+    "meetingFormat": "Hybrid",
+    "deadline": "2025-05-15",
+    "createdAt": "2025-04-18",
+    "thesisTopic": "Blockchain Solutions for Supply Chain Transparency",
+    "currentMembers": [
+      {
+        "userId": "user005",
+        "name": "Rahim Uddin",
+        "profilePicture": "https://randomuser.me/api/portraits/men/55.jpg",
+        "joinedAt": "2025-04-18",
+        "skills": ["Blockchain", "Solidity", "Supply Chain"],
+        "role": "Team Lead"
+      }
+    ],
+    "teamLead": "user005",
+    "maxMembers": 3,
+    "department": "Computer Science"
+  },
+  {
+    "id": "col006",
+    "title": "Calculus II Exam Preparation Group",
+    "type": "Study Help",
+    "description": "Forming a study group for Calculus II final exam. We'll be working through past papers and difficult integration problems.",
+    "requiredSkills": ["Calculus I", "Basic Integration"],
+    "academicLevel": "Undergraduate",
+    "createdBy": "user006",
+    "meetingFormat": "In-person",
+    "deadline": "2025-05-10",
+    "createdAt": "2025-04-22",
+    "courseName": "MATH201: Calculus II",
+    "studyGoals": ["Exam Preparation", "Problem Solving", "Concept Mastery"]
+  },
+  {
+    "id": "col007",
+    "title": "IoT Research Project - Smart Campus Solutions",
+    "type": "Research Project",
+    "description": "Seeking team members for IoT research project focused on developing smart campus solutions for energy efficiency and classroom management.",
+    "requiredSkills": ["IoT", "Embedded Systems", "Data Analysis"],
+    "academicLevel": "Graduate",
+    "createdBy": "user007",
+    "meetingFormat": "In-person",
+    "deadline": "2025-05-01",
+    "createdAt": "2025-04-10",
+    "projectScope": "IoT system design, implementation and testing within campus environment",
+    "timeline": {
+      "start": "2025-05-15",
+      "end": "2025-08-15"
+    },
+    "proposals": []
+  },
+  {
+    "id": "col008",
+    "title": "UI Design for Student Portfolio Website",
+    "type": "Small Task",
+    "description": "Need help designing a professional portfolio website UI. Looking for someone with Figma skills who can create a clean, modern design for showcasing student projects.",
+    "requiredSkills": ["UI Design", "Figma", "Web Design"],
+    "academicLevel": "Undergraduate",
+    "createdBy": "user008",
+    "isPaid": true,
+    "paymentAmount": "2500 BDT",
+    "estimatedHours": 5,
+    "deadline": "2025-05-05",
+    "createdAt": "2025-04-23"
+  }
+]

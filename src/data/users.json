@@ -1,0 +1,74 @@
+
+[
+  {
+    "id": "superadmin001",
+    "name": "Fahad Nadim Ziad",
+    "email": "superadmin@campuscompanion.com",
+    "password": "SuperSecureKey123",
+    "role": "SuperAdmin",
+    "profilePicture": "https://randomuser.me/api/portraits/men/1.jpg",
+    "bio": "System administrator and platform creator.",
+    "socialLinks": {
+      "linkedin": "https://linkedin.com/in/fahadnadim",
+      "github": "https://github.com/fahadnadim",
+      "portfolio": "https://fahadnadim.dev"
+    },
+    "status": "active",
+    "wishlist": []
+  },
+  {
+    "id": "mod001",
+    "name": "Ayesha Khan",
+    "email": "moderator@campuscompanion.com",
+    "password": "ModPass123",
+    "role": "Moderator",
+    "profilePicture": "https://randomuser.me/api/portraits/women/2.jpg",
+    "bio": "Computer Science graduate with passion for clean code.",
+    "socialLinks": {
+      "linkedin": "https://linkedin.com/in/ayeshakhan"
+    },
+    "status": "active",
+    "wishlist": ["opp001", "opp003"]
+  },
+  {
+    "id": "user001",
+    "name": "Rahul Sharma",
+    "email": "user@example.com",
+    "password": "password123",
+    "role": "Contributor",
+    "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg",
+    "bio": "Third-year Computer Science student interested in AI and machine learning.",
+    "socialLinks": {
+      "github": "https://github.com/rahulsharma",
+      "linkedin": "https://linkedin.com/in/rahulsharma"
+    },
+    "resumeLink": "https://drive.google.com/file/d/example-link",
+    "status": "active",
+    "wishlist": ["opp002", "opp004"]
+  },
+  {
+    "id": "user002",
+    "name": "Priya Patel",
+    "email": "priya@example.com",
+    "password": "password123",
+    "role": "Contributor",
+    "profilePicture": "https://randomuser.me/api/portraits/women/4.jpg",
+    "bio": "Final year BBA student with focus on marketing.",
+    "socialLinks": {
+      "linkedin": "https://linkedin.com/in/priyapatel"
+    },
+    "status": "active",
+    "wishlist": ["opp001"]
+  },
+  {
+    "id": "user003",
+    "name": "Ahmed Hassan",
+    "email": "ahmed@example.com",
+    "password": "password123",
+    "role": "Contributor",
+    "profilePicture": "https://randomuser.me/api/portraits/men/5.jpg",
+    "bio": "Engineering student who loves robotics.",
+    "status": "hibernated",
+    "wishlist": []
+  }
+]

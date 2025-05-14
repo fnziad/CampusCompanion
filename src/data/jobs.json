@@ -1,0 +1,71 @@
+
+[
+  {
+    "id": "job001",
+    "title": "Software Engineering Intern",
+    "company": "TechNova Solutions",
+    "location": "Dhaka, Bangladesh",
+    "type": "internship",
+    "description": "Join our development team for a 3-month internship working on web and mobile applications using modern technologies.",
+    "requirements": [
+      "Currently enrolled in CS or related degree",
+      "Knowledge of JavaScript and basic web development",
+      "Strong problem-solving skills",
+      "Ability to work in a team environment"
+    ],
+    "applicationUrl": "https://example.com/apply-technova",
+    "postedDate": "2024-03-18",
+    "deadline": "2024-04-15"
+  },
+  {
+    "id": "job002",
+    "title": "Research Assistant - ML Project",
+    "company": "BRAC University Research Lab",
+    "location": "Dhaka, Bangladesh",
+    "type": "research",
+    "description": "Research position for students interested in machine learning applications in healthcare.",
+    "requirements": [
+      "Strong academic background in CS, Math or Statistics",
+      "Experience with Python and machine learning libraries",
+      "Interest in healthcare applications",
+      "Ability to work 15-20 hours per week"
+    ],
+    "applicationUrl": "https://example.com/apply-research",
+    "postedDate": "2024-03-10",
+    "deadline": "2024-04-05"
+  },
+  {
+    "id": "job003",
+    "title": "Marketing Assistant",
+    "company": "Creative Solutions Agency",
+    "location": "Dhaka, Bangladesh",
+    "type": "part-time",
+    "description": "Part-time role assisting with digital marketing campaigns, social media management, and content creation.",
+    "requirements": [
+      "Background in Marketing, Communications or related field",
+      "Creative mindset and excellent writing skills",
+      "Understanding of major social media platforms",
+      "Basic design skills (Canva, Photoshop) a plus"
+    ],
+    "applicationUrl": "https://example.com/apply-marketing",
+    "postedDate": "2024-03-12",
+    "deadline": "2024-04-10"
+  },
+  {
+    "id": "job004",
+    "title": "Junior Frontend Developer",
+    "company": "WebTech Bangladesh",
+    "location": "Remote",
+    "type": "full-time",
+    "description": "Entry-level position for graduates who want to build a career in frontend web development using React and modern JavaScript.",
+    "requirements": [
+      "BS in Computer Science or related field (recent graduates welcome)",
+      "Knowledge of HTML, CSS, JavaScript and React",
+      "Understanding of responsive design principles",
+      "Portfolio of projects (personal or academic)"
+    ],
+    "applicationUrl": "https://example.com/apply-webtech",
+    "postedDate": "2024-03-05",
+    "deadline": "2024-03-30"
+  }
+]

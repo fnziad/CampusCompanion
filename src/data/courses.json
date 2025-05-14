@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": "cse101",
+    "code": "CSE101",
+    "title": "Introduction to Computer Science",
+    "description": "Fundamental concepts of computing, problem solving, algorithms, and programming.",
+    "instructor": "Dr. Samira Ahmed",
+    "thumbnail": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "resourceCount": 7,
+    "department": "Computer Science"
+  },
+  {
+    "id": "cse220",
+    "code": "CSE220",
+    "title": "Data Structures",
+    "description": "Implementation and application of basic data structures like arrays, linked lists, stacks, queues, trees, and graphs.",
+    "instructor": "Dr. Kabir Khan",
+    "thumbnail": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5",
+    "resourceCount": 5,
+    "department": "Computer Science"
+  },
+  {
+    "id": "cse330",
+    "code": "CSE330",
+    "title": "Algorithms",
+    "description": "Design and analysis of algorithms including sorting, searching, and graph algorithms.",
+    "instructor": "Dr. Nadia Rahman",
+    "thumbnail": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
+    "resourceCount": 3,
+    "department": "Computer Science"
+  },
+  {
+    "id": "bus250",
+    "code": "BUS250",
+    "title": "Principles of Marketing",
+    "description": "Introduction to marketing concepts, including customer behavior, market segmentation, and product strategies.",
+    "instructor": "Prof. Akram Hussain",
+    "thumbnail": "https://images.unsplash.com/photo-1485579149621-3123dd979885",
+    "resourceCount": 4,
+    "department": "Business Administration"
+  },
+  {
+    "id": "eng210",
+    "code": "ENG210",
+    "title": "Academic Writing",
+    "description": "Developing skills for academic research writing and critical analysis.",
+    "instructor": "Prof. Liyana Roy",
+    "thumbnail": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8",
+    "resourceCount": 6,
+    "department": "English"
+  },
+  {
+    "id": "ece240",
+    "code": "ECE240",
+    "title": "Digital Logic Design",
+    "description": "Boolean algebra, logic gates, combinational and sequential circuits, memory elements, and basic computer organization.",
+    "instructor": "Dr. Farid Rahman",
+    "thumbnail": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "resourceCount": 2,
+    "department": "Electrical Engineering"
+  }
+]

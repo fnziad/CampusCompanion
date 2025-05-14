@@ -1,0 +1,96 @@
+
+[
+  {
+    "id": "res001",
+    "title": "Introduction to Programming Slides",
+    "description": "Lecture slides covering basic programming concepts, variables, control structures, and functions.",
+    "type": "presentation",
+    "url": "https://example.com/slides1",
+    "courseId": "cse101",
+    "uploadedBy": "user001",
+    "uploadDate": "2024-03-15",
+    "approved": true,
+    "ratings": [
+      { "userId": "user002", "rating": 5, "comment": "Very helpful slides!" },
+      { "userId": "user003", "rating": 4, "comment": "Good content, but could use more examples." }
+    ]
+  },
+  {
+    "id": "res002",
+    "title": "Python Basics Tutorial",
+    "description": "Step-by-step tutorial on Python basics including examples and practice exercises.",
+    "type": "pdf",
+    "url": "https://example.com/python-tutorial",
+    "courseId": "cse101",
+    "uploadedBy": "user002",
+    "uploadDate": "2024-03-10",
+    "approved": true,
+    "ratings": [
+      { "userId": "user001", "rating": 5, "comment": "Perfect for beginners!" }
+    ]
+  },
+  {
+    "id": "res003",
+    "title": "Data Structures Cheat Sheet",
+    "description": "Quick reference for common data structures with time complexity analysis.",
+    "type": "pdf",
+    "url": "https://example.com/ds-cheatsheet",
+    "courseId": "cse220",
+    "uploadedBy": "mod001",
+    "uploadDate": "2024-02-28",
+    "approved": true,
+    "ratings": []
+  },
+  {
+    "id": "res004",
+    "title": "Algorithm Visualization Tools",
+    "description": "Collection of online tools to visualize algorithm execution.",
+    "type": "link",
+    "url": "https://visualgo.net/",
+    "courseId": "cse330",
+    "uploadedBy": "user001",
+    "uploadDate": "2024-03-20",
+    "approved": true,
+    "ratings": [
+      { "userId": "user002", "rating": 5, "comment": "These visualizations helped me understand algorithms much better!" }
+    ]
+  },
+  {
+    "id": "res005",
+    "title": "Marketing Case Studies",
+    "description": "Collection of real-world marketing case studies for analysis.",
+    "type": "pdf",
+    "url": "https://example.com/marketing-cases",
+    "courseId": "bus250",
+    "uploadedBy": "user002",
+    "uploadDate": "2024-03-05",
+    "approved": true,
+    "ratings": []
+  },
+  {
+    "id": "res006",
+    "title": "Academic Writing Guidelines",
+    "description": "Comprehensive guide on academic writing standards and best practices.",
+    "type": "pdf",
+    "url": "https://example.com/academic-writing",
+    "courseId": "eng210",
+    "uploadedBy": "user003",
+    "uploadDate": "2024-02-15",
+    "approved": false,
+    "ratings": []
+  },
+  {
+    "id": "res007",
+    "title": "Digital Logic Design Lab Exercises",
+    "description": "Practice exercises for digital circuit design and simulation.",
+    "type": "pdf",
+    "url": "https://example.com/digital-lab",
+    "courseId": "ece240",
+    "uploadedBy": "mod001",
+    "uploadDate": "2024-03-12",
+    "approved": true,
+    "ratings": [
+      { "userId": "user001", "rating": 4, "comment": "Good exercises, helped with the practical aspects." }
+    ]
+  }
+]
